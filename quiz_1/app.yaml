@@ -1,6 +1,5 @@
-runtime: python
+runtime: python27
 threadsafe: true
-env: flex
 libraries:
 - name: numpy
   version: "1.6.1"
