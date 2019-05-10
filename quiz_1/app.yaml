@@ -3,3 +3,6 @@ threadsafe: true
 libraries:
 - name: numpy
   version: "1.6.1"
+handlers:
+- url: /.*
+  script: this field is required, but ignored
