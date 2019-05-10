@@ -87,4 +87,4 @@ def values():
 
    
 if __name__ == '__main__':
-   application.run(host='0.0.0.0', port=port,debug = True)
+   application.run(host='8.8.8.8', port=port,debug = True)
