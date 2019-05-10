@@ -4,7 +4,7 @@ import sqlite3 as sql
 #import numpy as np
 application = Flask(__name__)
 import os
-import matplotlib as mpl
+#import matplotlib as mpl
 mpl.use('Agg')
 from matplotlib import pyplot as plt
 from sklearn.cluster import KMeans
