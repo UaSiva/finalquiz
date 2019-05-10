@@ -1,4 +1,5 @@
 runtime: python37
+env: flex
 libraries:
 - name: numpy
   version: "1.6.1"
