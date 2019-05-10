@@ -5,10 +5,10 @@ import sqlite3 as sql
 application = Flask(__name__)
 import os
 #import matplotlib as mpl
-mpl.use('Agg')
-from matplotlib import pyplot as plt
-from sklearn.cluster import KMeans
-from scipy.spatial import distance
+#mpl.use('Agg')
+#from matplotlib import pyplot as plt
+#from sklearn.cluster import KMeans
+#from scipy.spatial import distance
 
 #import time
 #import random
